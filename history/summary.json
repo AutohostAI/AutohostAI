@@ -4,19 +4,19 @@
     "url": "$URL_PUBLIC_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "public-api",
-    "status": "up",
-    "uptime": "42.46%",
-    "uptimeDay": "42.46%",
-    "uptimeWeek": "42.46%",
-    "uptimeMonth": "42.46%",
-    "uptimeYear": "42.46%",
+    "status": "down",
+    "uptime": "45.87%",
+    "uptimeDay": "45.87%",
+    "uptimeWeek": "45.87%",
+    "uptimeMonth": "45.87%",
+    "uptimeYear": "45.87%",
     "time": 309,
     "timeDay": 309,
     "timeWeek": 309,
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-09-06": 367
+      "2024-09-06": 358
     }
   },
   {
