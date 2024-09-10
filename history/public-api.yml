@@ -1,7 +1,7 @@
 url: $URL_PUBLIC_API
-status: up
-code: 200
-responseTime: 401
-lastUpdated: 2024-09-10T07:59:29.845Z
+status: down
+code: 403
+responseTime: 163
+lastUpdated: 2024-09-10T08:46:57.515Z
 startTime: 2024-09-06T11:21:46.348Z
 generator: Upptime <https://github.com/upptime/upptime>
