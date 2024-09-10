@@ -16,6 +16,8 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{"type":"Security","level":"info","message":"upptime"}'
+  - name: Embed Server
+    url: $URL_EMBED_SERVER
   - name: Dashboard
     url: $URL_DASHBOARD
   - name: Guest Portal
