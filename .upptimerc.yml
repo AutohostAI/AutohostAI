@@ -10,12 +10,12 @@ sites:
       - "X-Api-Key: $URL_PUBLIC_API_KEY"
   - name: Private API
     url: $URL_PRIVATE_API
-  - name: SDK API
-    url: $URL_SDK_API
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: '{"type":"Security","level":"info","message":"upptime"}'
+  # - name: SDK API
+  #   url: $URL_SDK_API
+  #   method: POST
+  #   headers:
+  #     - "Content-Type: application/json"
+  #   body: '{"type":"Security","level":"info","message":"upptime"}'
   - name: Embed Server
     url: $URL_EMBED_SERVER
   - name: Dashboard
