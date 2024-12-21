@@ -130,18 +130,20 @@
     "url": "https://www.sanctionswatchlist.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sanctionswatchlist.com.ico",
     "slug": "global-watchlist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 118,
-    "timeDay": 89,
-    "timeWeek": 109,
-    "timeMonth": 114,
+    "timeDay": 131,
+    "timeWeek": 117,
+    "timeMonth": 116,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-21": 0
+    }
   },
   {
     "name": "Tenant Evictions",
