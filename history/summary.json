@@ -112,9 +112,9 @@
     "url": "https://www.openreputationapi.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.openreputationapi.com.ico",
     "slug": "threat-intel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 139,
     "timeMonth": 111,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-22": 0
+    }
   },
   {
     "name": "Global Watchlist",
