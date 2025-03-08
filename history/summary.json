@@ -58,19 +58,19 @@
     "url": "$URL_DASHBOARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashboard-app",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.98%",
-    "time": 507,
-    "timeDay": 6894,
-    "timeWeek": 2521,
-    "timeMonth": 970,
-    "timeYear": 507,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.97%",
+    "time": 559,
+    "timeDay": 7681,
+    "timeWeek": 3273,
+    "timeMonth": 1263,
+    "timeYear": 559,
     "dailyMinutesDown": {
-      "2025-03-08": 56
+      "2025-03-08": 64
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "guest-portal",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "86.64%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "85.93%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.92%",
     "time": 402,
     "timeDay": 477,
     "timeWeek": 501,
     "timeMonth": 414,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-03-08": 192
+      "2025-03-08": 203
     }
   },
   {
