@@ -76,18 +76,20 @@
     "url": "$URL_GUEST_PORTAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "guest-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 305,
-    "timeWeek": 480,
-    "timeMonth": 405,
-    "timeYear": 400,
-    "dailyMinutesDown": {}
+    "time": 402,
+    "timeDay": 477,
+    "timeWeek": 501,
+    "timeMonth": 414,
+    "timeYear": 402,
+    "dailyMinutesDown": {
+      "2025-03-08": 0
+    }
   },
   {
     "name": "Dev Docs",
