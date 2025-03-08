@@ -58,19 +58,19 @@
     "url": "$URL_DASHBOARD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dashboard-app",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "99.62%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "97.24%",
+    "uptimeWeek": "99.61%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 452,
     "timeDay": 5120,
     "timeWeek": 1531,
     "timeMonth": 643,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2025-03-08": 38
+      "2025-03-08": 40
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "guest-portal",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.96%",
     "time": 402,
     "timeDay": 477,
     "timeWeek": 501,
     "timeMonth": 414,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-03-08": 75
+      "2025-03-08": 115
     }
   },
   {
