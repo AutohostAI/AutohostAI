@@ -1,7 +1,7 @@
 url: https://www.openreputationapi.com
-status: down
-code: 503
-responseTime: 620
-lastUpdated: 2025-03-30T16:57:08.685Z
+status: up
+code: 200
+responseTime: 483
+lastUpdated: 2025-03-30T17:08:04.800Z
 startTime: 2024-09-06T11:21:53.146Z
 generator: Upptime <https://github.com/upptime/upptime>
