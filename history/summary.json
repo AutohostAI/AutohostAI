@@ -136,9 +136,9 @@
     "url": "https://www.sanctionswatchlist.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sanctionswatchlist.com.ico",
     "slug": "global-watchlist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
@@ -148,6 +148,7 @@
     "timeMonth": 189,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2025-04-29": 0,
       "2024-12-22": 842,
       "2024-12-21": 315
     }
