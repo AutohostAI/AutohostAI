@@ -177,9 +177,9 @@
     "url": "https://www.autohost.ai",
     "icon": "https://icons.duckduckgo.com/ip3/www.autohost.ai.ico",
     "slug": "marketing-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -189,6 +189,7 @@
     "timeMonth": 323,
     "timeYear": 312,
     "dailyMinutesDown": {
+      "2025-05-03": 0,
       "2024-11-06": 16
     }
   }
