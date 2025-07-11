@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 171,
-    "timeWeek": 297,
-    "timeMonth": 281,
+    "timeDay": 226,
+    "timeWeek": 301,
+    "timeMonth": 277,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 186,
-    "timeWeek": 323,
+    "timeDay": 403,
+    "timeWeek": 350,
     "timeMonth": 286,
     "timeYear": 300,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 459,
-    "timeWeek": 502,
-    "timeMonth": 454,
-    "timeYear": 438,
+    "time": 439,
+    "timeDay": 854,
+    "timeWeek": 534,
+    "timeMonth": 463,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 518,
-    "timeDay": 220,
-    "timeWeek": 318,
-    "timeMonth": 333,
-    "timeYear": 518,
+    "time": 517,
+    "timeDay": 290,
+    "timeWeek": 329,
+    "timeMonth": 327,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2025-03-08": 54
     }
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 411,
-    "timeDay": 281,
-    "timeWeek": 442,
-    "timeMonth": 450,
+    "timeDay": 465,
+    "timeWeek": 449,
+    "timeMonth": 444,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2025-03-08": 270
@@ -98,18 +98,20 @@
     "url": "https://docs.autohost.ai",
     "icon": "https://icons.duckduckgo.com/ip3/docs.autohost.ai.ico",
     "slug": "dev-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 158,
-    "timeWeek": 217,
+    "timeDay": 327,
+    "timeWeek": 223,
     "timeMonth": 218,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-11": 0
+    }
   },
   {
     "name": "Threat Intel",
@@ -123,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 133,
-    "timeDay": 99,
-    "timeWeek": 127,
-    "timeMonth": 131,
+    "timeDay": 147,
+    "timeWeek": 133,
+    "timeMonth": 121,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2024-12-22": 93
@@ -143,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 137,
-    "timeDay": 146,
-    "timeWeek": 144,
-    "timeMonth": 151,
+    "timeDay": 166,
+    "timeWeek": 155,
+    "timeMonth": 149,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2024-12-22": 842,
@@ -164,9 +166,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 156,
-    "timeDay": 135,
-    "timeWeek": 126,
-    "timeMonth": 145,
+    "timeDay": 148,
+    "timeWeek": 133,
+    "timeMonth": 142,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2024-12-22": 79
@@ -184,9 +186,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 4101,
-    "timeWeek": 688,
-    "timeMonth": 272,
+    "timeDay": 177,
+    "timeWeek": 702,
+    "timeMonth": 275,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2024-11-06": 16
