@@ -98,19 +98,19 @@
     "url": "https://docs.autohost.ai",
     "icon": "https://icons.duckduckgo.com/ip3/docs.autohost.ai.ico",
     "slug": "dev-docs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 248,
-    "timeWeek": 197,
+    "timeDay": 228,
+    "timeWeek": 198,
     "timeMonth": 219,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-07-17": 0
+      "2025-07-17": 14
     }
   },
   {
