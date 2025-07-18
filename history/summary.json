@@ -98,18 +98,20 @@
     "url": "https://docs.autohost.ai",
     "icon": "https://icons.duckduckgo.com/ip3/docs.autohost.ai.ico",
     "slug": "dev-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
-    "timeDay": 166,
+    "timeDay": 124,
     "timeWeek": 194,
     "timeMonth": 211,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-18": 0
+    }
   },
   {
     "name": "Threat Intel",
@@ -137,11 +139,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sanctionswatchlist.com.ico",
     "slug": "global-watchlist",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 137,
     "timeDay": 142,
     "timeWeek": 143,
