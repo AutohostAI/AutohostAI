@@ -98,9 +98,9 @@
     "url": "https://docs.autohost.ai",
     "icon": "https://icons.duckduckgo.com/ip3/docs.autohost.ai.ico",
     "slug": "dev-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 208,
     "timeMonth": 200,
     "timeYear": 234,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-20": 0
+    }
   },
   {
     "name": "Threat Intel",
@@ -179,12 +181,12 @@
     "slug": "marketing-website",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "87.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.25%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.96%",
     "time": 275,
-    "timeDay": 240,
+    "timeDay": 115,
     "timeWeek": 193,
     "timeMonth": 172,
     "timeYear": 275,
