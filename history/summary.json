@@ -98,9 +98,9 @@
     "url": "https://docs.autohost.ai",
     "icon": "https://icons.duckduckgo.com/ip3/docs.autohost.ai.ico",
     "slug": "dev-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -110,6 +110,7 @@
     "timeMonth": 229,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2025-08-27": 0,
       "2025-08-25": 18
     }
   },
