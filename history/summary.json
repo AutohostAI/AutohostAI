@@ -100,9 +100,9 @@
     "slug": "dev-docs",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.27%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 234,
     "timeDay": 225,
@@ -110,7 +110,7 @@
     "timeMonth": 229,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2025-08-29": 39,
+      "2025-08-29": 31,
       "2025-08-25": 18
     }
   },
